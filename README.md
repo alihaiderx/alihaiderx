@@ -1,3 +1,8 @@
 ## Hi, I'm Ali Haider 👋🏽
 
-I'm a full-stack developer who loves making open-source contributions easy, building technology that helps people, and creating a strong community. I enjoy developing great front-ends and powerful back-ends. Some technologies I work with include HTML, CSS, JavaScript, Node.js, Laravel, MySQL, and APIs.
+Senior Software Engineer with 6+ years of experience in Laravel, Node.js, and modern
+JavaScript frameworks, specializing in RESTful API development, microservices architecture, and
+scalable SaaS platforms. Strong background in building high-performance applications,
+automating business workflows, and deploying production systems using Docker, AWS, and
+CI/CD pipelines. Experienced in API security (JWT-based authentication), caching strategies with
+Redis, and event-driven systems using Kafka and RabbitMQ.
