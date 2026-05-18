@@ -1,10 +1,8 @@
-# Ali Haider
+## Hi, I'm Ali Haider 👋🏽
 
 Full Stack Engineer • Scalable SaaS Systems • Backend Architecture • Infrastructure
 
-Software engineer with 6+ years of experience building scalable SaaS platforms, backend systems, APIs, and production infrastructure. Focused on performance, maintainability, distributed systems, and solving real-world scalability problems.
-
----
+Software engineer with 6+ years of experience building scalable SaaS platforms, backend systems, APIs, and production infrastructure. Focused on performance, distributed systems, and scalable software architecture.
 
 ## ⚙️ What I Work On
 
@@ -14,111 +12,62 @@ Software engineer with 6+ years of experience building scalable SaaS platforms, 
 * REST API development
 * Performance optimization
 * Queue systems and async processing
-* System design
 * Infrastructure and deployment
 * AI-powered backend systems
-
----
 
 ## 🛠 Tech Stack
 
 ### Backend
 
-* Laravel
-  Building scalable SaaS platforms, REST APIs, queue systems, and backend architectures.
-
-* Node.js & Express.js
-  Developing APIs, microservices, real-time systems, and backend services.
-
-* PHP & TypeScript
-  Creating maintainable backend applications and scalable software systems.
-
----
+* Laravel, Node.js, Express.js
+* REST APIs, microservices, queue systems
+* PHP, TypeScript
 
 ### Frontend
 
-* Vue.js
-  Building dashboards, admin panels, and modern SaaS interfaces.
-
-* Livewire & Alpine.js
-  Creating reactive interfaces and lightweight frontend systems.
-
----
+* Vue.js, Livewire, Alpine.js
+* SaaS dashboards and admin panels
 
 ### Databases & Caching
 
-* PostgreSQL & MySQL
-  Database design, optimization, indexing, and high-performance query handling.
-
-* Redis
-  Caching, queues, rate limiting, and shared state systems.
-
-* Milvus
-  Vector search, embeddings, semantic search, and AI-driven retrieval systems.
-
----
+* PostgreSQL, MySQL
+* Redis caching and queue systems
+* Milvus vector search
 
 ### Infrastructure & DevOps
 
-* Docker
-  Containerized deployments and isolated development environments.
-
-* AWS
-  Cloud infrastructure and scalable deployment workflows.
-
-* Nginx
-  Reverse proxying, load balancing, caching, and performance optimization.
-
-* GitHub Actions & CI/CD
-  Automated testing, deployments, and release pipelines.
-
-* Linux
-  Server management and production infrastructure operations.
-
----
+* Docker, AWS, Linux
+* Nginx, CI/CD, GitHub Actions
 
 ### Messaging & Scalability
 
 * Kafka
-  Distributed event streaming and asynchronous processing systems.
-
 * RabbitMQ
-  Queue systems, background jobs, and event-driven workflows.
-
----
+* Event-driven systems
 
 ### AI / Search Systems
 
-* LLM Integration
-  AI-powered workflows and intelligent backend systems.
-
-* NLP & Embeddings
-  Semantic understanding and intelligent search implementations.
-
-* Vector Search Systems
-  AI-driven retrieval and matching systems.
-
----
+* LLM integrations
+* Embeddings and semantic search
+* AI-powered retrieval systems
 
 ## 🚀 Featured Areas
 
 ### Backend Architecture
 
-Designing backend systems that remain maintainable and reliable under production load.
+Designing maintainable and scalable backend systems for production workloads.
 
 ### SaaS Engineering
 
-Building multi-tenant SaaS applications with scalable architecture and billing systems.
+Building scalable multi-tenant SaaS platforms and automation systems.
 
 ### Performance Optimization
 
-Improving API performance, database efficiency, caching layers, and request throughput.
+Improving APIs, databases, caching layers, and request throughput.
 
 ### AI Integrations
 
-Working with LLM integrations, embeddings, vector search, semantic search, and NLP systems.
-
----
+Building systems using LLMs, vector search, embeddings, and NLP workflows.
 
 ## 🧠 Current Interests
 
@@ -126,18 +75,12 @@ Working with LLM integrations, embeddings, vector search, semantic search, and N
 * Distributed systems
 * High-performance APIs
 * Event-driven architecture
-* Queue systems
 * Scalable SaaS infrastructure
 * AI-assisted systems
-* Backend performance engineering
-
----
 
 ## 🌐 Connect
 
 * Portfolio: https://alihaiderx.com
 * Email: [alihaider47125@gmail.com](mailto:alihaider47125@gmail.com)
-
----
 
 > Building systems that continue working when traffic, data, and complexity increase.
